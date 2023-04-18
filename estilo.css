@@ -1,0 +1,20 @@
+ body{background-color: black;} 
+.parrafo1{color: white; font-size:  50px; font-family: sans-serif;}
+.parrafo2{color: blue;}
+.seccionPrincipal{
+    display: flex;
+    justify-content: center;
+    background-color: blue;
+    width: 80%;
+    margin-left: 10%}
+
+    .menu{
+        display: flex;
+    justify-content: center;
+    color: yellowgreen;
+    width: 80%;
+    margin-left: 10%;
+    font-size: 30px;
+    
+    }
+     
